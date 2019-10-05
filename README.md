@@ -1,4 +1,4 @@
-# Tabler
+# Tabler  构建在 BootStrap 4 之上的免费的 HTML 控制面板框架。
 [![Backers on Open Collective](https://opencollective.com/tabler/backers/badge.svg)](#backers)
  [![Sponsors on Open Collective](https://opencollective.com/tabler/sponsors/badge.svg)](#sponsors)
 
